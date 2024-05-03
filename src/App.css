@@ -1,0 +1,17 @@
+textarea{
+    border: none !important;
+    resize: none !important;
+}
+
+textarea:focus{
+    outline: none !important;
+}
+
+input{
+    background-color: rgb(233, 233, 233);
+    width: 100%;
+}
+
+input:focus{
+    outline: none;
+}
